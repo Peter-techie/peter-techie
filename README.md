@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Peter 👋
 
-<!--
-**Peter-techie/peter-techie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web developer in training from Uyo, Nigeria.** I build responsive websites
+with HTML and CSS, and I am learning JavaScript and React next.
 
-Here are some ideas to get you started:
+## 🌍 My portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[peter-techie.github.io/peter-techie-portfolio](https://peter-techie.github.io/peter-techie-portfolio/)**
+
+## 🔥 Featured projects
+
+- [The Naija Future Gazette](https://peter-techie.github.io/naija-future-gazette/): CSS Grid magazine and newspaper landing page
+- [Naija Light Watch](https://peter-techie.github.io/naija-light-watch/): NEPA light tracker with a CSS-only skyline
+- [Naija Dev Setup Guide](https://peter-techie.github.io/naija-dev-setup-guide/): responsive technical documentation page
+- [CSS Danfo Bus](https://peter-techie.github.io/css-danfo-bus/): a Lagos danfo bus drawn with pure CSS
+
+## 🛠️ Skills
+
+HTML5 · CSS3 · CSS Grid · Flexbox · Responsive Design · Accessibility · Git · GitHub
+
+## 📚 Currently learning
+
+JavaScript, then React
+
+## 📫 Find me
+
+[GitHub](https://github.com/peter-techie) · [X](https://x.com/peter_techie) · [LinkedIn](https://www.linkedin.com/in/emmanuel-ebenezer-a4bb1241a)
